@@ -1,29 +1,30 @@
-##Problem Description
-##Reverse the bits of an 32 bit unsigned integer A.
+## Problem Description
 
-##Problem Constraints
+## Reverse the bits of an 32 bit unsigned integer A.
+
+## Problem Constraints
 0 <= A <= 232
-##Input Format
+## Input Format
 First and only argument of input contains an integer A.
 
 Output Format
 Return a single unsigned integer denoting the decimal value of reversed bits.
 
-###Example Input
+### Example Input
 Input 1:
  0
 Input 2:
  3
 
 
-###Example Output
+### Example Output
 Output 1:
  0
 Output 2:
  3221225472
 
 
-###Example Explanation
+### Example Explanation
 Explanation 1:
         00000000000000000000000000000000
 
